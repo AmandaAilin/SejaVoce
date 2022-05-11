@@ -16,14 +16,14 @@
 
 
 ## Descrição do Projeto
-Esta página foi feita na trilha da discover, apresentado por Rocketseat. 
-Personalização: loja virtua SejaVocê
+Esta página foi feita na trilha da discover, apresentado por Rocketseat. O nome do desafio foi Beutysalon.
+Actualmente eu estou personalizando ele para uma loja virtua chamada SejaVocê, já modifiquei as cores e o conteudo assim como tambem as imagenes. 
 
 
 
 ## Funcionalidades e Demonstração da Aplicação
-- `Funcionalidade 1`: 
-- `Funcionalidade 2`: 
+- `Funcionalidade 1`: mobile
+- `Funcionalidade 2`: desktop
 - `Funcionalidade 3`: 
 
 ## Tecnologias utilizadas
