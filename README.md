@@ -16,7 +16,8 @@
 
 
 ## Descrição do Projeto
-Meu timer é um dos meus primeiros projetos, é um "cronometro", a intenção é aplicar meus conhecimentos em CSS e Javascript. Tambem apliqueimeus conhecimentos em flexbox. 
+Esta página foi feita na trilha da discover, apresentado por Rocketseat. 
+Personalização: loja virtua SejaVocê
 
 
 
