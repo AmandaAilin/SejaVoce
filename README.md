@@ -12,7 +12,7 @@
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Documentação](#Documentação)
+* [Extra](#Extra)
 
 
 ## Descrição do Projeto
@@ -24,7 +24,6 @@ Actualmente eu estou personalizando ele para uma loja virtua chamada SejaVocê, 
 ## Funcionalidades e Demonstração da Aplicação
 - `Funcionalidade 1`: mobile
 - `Funcionalidade 2`: desktop
-- `Funcionalidade 3`: 
 
 ## Tecnologias utilizadas
 <div style="display: inline_block">
