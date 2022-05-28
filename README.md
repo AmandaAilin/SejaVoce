@@ -1,4 +1,4 @@
-<h1 align="center">SejaVocê</h1>
+<h1 align="center">SejaVocê</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-em%20andamento-green"/>
@@ -14,6 +14,9 @@
 
 ![SejaVoce](https://user-images.githubusercontent.com/100203503/167965233-54076b77-7c5f-49c6-b2ba-1fb44920b8c4.PNG)
 
+<p align="right">
+        View: https://amandaailin.github.io/SejaVoce/
+</p>
 
 ## Descrição do Projeto:
 Esta página foi feita na trilha da discover, apresentado por Rocketseat. O nome do desafio foi Beutysalon.
